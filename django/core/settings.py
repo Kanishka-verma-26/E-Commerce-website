@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'store',
     'mptt',
     'rest_framework',
+    'graphene_django',
 ]
 
 MIDDLEWARE = [
@@ -134,4 +135,8 @@ REST_FRAMEWORK = {
     'DEFAULT_PERMISSION_CLASSES': [
         'rest_framework.permissions.DjangoModelPermissionsOrAnonReadOnly'           # is anonymous person tries to access data they just have read only else you have access to the models
     ]
+}
+
+GRAPHENE = {
+    "SCHEMA": "store.schema.schema"
 }
