@@ -1,6 +1,6 @@
 
 
-                                                  <h1>DRF (Django Rest Framework)</h1>
+                                            <h1 style="font-size:3em">DRF (Django Rest Framework)</h1>
 
 
 
