@@ -1,6 +1,5 @@
 
-
-                                            <h1>DRF (Django Rest Framework)</h1>
+<h1>DRF (Django Rest Framework)</h1>
 
 
 
@@ -95,7 +94,6 @@
 
 
 
-                                                <h1>GraphQL</h1>
 
 
 
