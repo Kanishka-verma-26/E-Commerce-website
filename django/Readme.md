@@ -101,7 +101,7 @@
 
 
 
-
+<h1>GraphQL</h1>
 
 ( yes its a fact that you can work with Django DRF and GraphQL at the same time)
 
