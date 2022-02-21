@@ -5,6 +5,8 @@
 
 
 
+
+
 1) after successfully creating project, app and adding your app in your INSTALLED_APPS of settings.py, install black
             "pip install black"
 
@@ -91,7 +93,12 @@
 
 
 
-                                                GraphQL
+
+
+                                                <h1>GraphQL</h1>
+
+
+
 
 
 
